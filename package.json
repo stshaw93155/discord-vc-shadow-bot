@@ -1,0 +1,16 @@
+{
+  "name": "discord-vc-shadow-bot",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "dependencies": {
+    "discord.js": "^14.0.0",
+    "@discordjs/voice": "^0.18.0",
+    "opusscript": "^0.1.1",
+    "dotenv": "^16.0.0",
+    "sodium-native": "^4.0.0",
+    "libsodium-wrappers": "^0.7.15"
+  }
+}
