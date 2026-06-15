@@ -9,8 +9,8 @@ const client = new Client({
   ]
 });
 
-const VC_CHANNEL_ID = process.env.CHANNEL_ID;
-const GUILD_ID = process.env.GUILD_ID;
+const VC_CHANNEL_ID = '1355954764155981924';
+const GUILD_ID = '1163523403404296192';
 
 function joinVC() {
   const guild = client.guilds.cache.get(GUILD_ID);
