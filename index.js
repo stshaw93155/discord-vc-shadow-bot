@@ -9,7 +9,7 @@ const client = new Client({
   ]
 });
 
-const VC_CHANNEL_ID = '1355954764155981924';
+const VC_CHANNEL_ID = '1212698147046817824';
 const GUILD_ID = '1163523403404296192';
 
 function joinVC() {
